@@ -16,7 +16,7 @@ await octokit.request('POST /repos/{owner}/{repo}/hooks', {
     'pull_request'
   ],
   config: {
-    url: 'https://discord.com/api/webhooks/1232884211246170172/1o_nY6Y6Y-Okc-YEAMAnxapXNC3DcRYsjBzGOAgqe5y-rQkAWMiubjsxfbbdZ9YfzFkz',
+    url: 'testtttata',
     content_type: 'json',
     insecure_ssl: '0'
   },
